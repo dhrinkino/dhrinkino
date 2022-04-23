@@ -79,6 +79,7 @@ I'm really enjoying good music 🎵, Hi-Fi and collecting vinyl records. Also i'
     <p> Most of time you can reach me via mail. I'm checking it constantly so don't worry</p>
     <ul>
         <li>📨 &nbsp <a href="mailto:hrinkino1@ucm.sk"> hrinkino1(at)ucm.sk</a></li>
+        <li>I also have a website 🌍 &nbsp <a href="https://hrinkino.com">hrinkino.com</a></li>
     </ul>
 
 
