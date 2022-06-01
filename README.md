@@ -2,8 +2,7 @@
     <h1>
         <p>
             <strong>
-                Ahoj Hello こんにちわ Bonjour
-                <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+                Ahoj Hello こんにちわ Bonjour 👋
             </strong>
         </p>
         <p>
