@@ -46,6 +46,7 @@ I'm really enjoying good music 🎵, Hi-Fi and collecting vinyl records. Also i'
             <li>React Native</li>
             <li>Tailwind CSS</li>
             <li>Python</li>
+            <li>Wordpress Themes</li>
         </ul>
  </tr>
 </table>
